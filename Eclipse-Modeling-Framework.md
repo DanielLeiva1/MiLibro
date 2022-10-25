@@ -42,3 +42,4 @@ $$*imagen 1*\tag{1}$$
 11. Se puede observar que esta habilitado **Eclipse Modeling Framework** listo para usarse (imagen 12)
     ![Figura 12.](..\mybook\images\Imagen_12.png "Avaliable Software.")
     $$*imagen 12*\tag{12}$$
+    
